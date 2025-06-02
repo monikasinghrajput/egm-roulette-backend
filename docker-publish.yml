@@ -2,7 +2,7 @@ name: Build and Push EGM Roulette Docker Image
 
 on:
   push:
-    branches: [ master ]  # or your branch name
+    branches: [ master ]  # or your branch names
 
 jobs:
   build-and-push:
