@@ -1,4 +1,4 @@
-FROM openjdk:21-slim as build
+FROM openjdk:21-slim as build # Stage 2: Create a smaller runtime image to run the application
 RUN apt-get update && \
     apt-get install -y maven && \
     rm -rf /var/lib/apt/lists/*
