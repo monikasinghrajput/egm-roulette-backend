@@ -10,7 +10,7 @@ RUN apt-get update && \
 WORKDIR /home/app
 
 # Copy Maven project files
-COPY pom.xml .
+COPY pom.xml . 
 COPY src ./src
 
 # Package the application
