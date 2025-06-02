@@ -1,9 +1,7 @@
-version: '3.8'
+version: "3.8"
 
 services:
-  egm-roulette-game-service:
-    build:
-      context: .
+  egm-roulette:
+    build: .
     ports:
-      - "3000:3000"
-    restart: always
+      - "9090:9090"
