@@ -1,0 +1,20 @@
+spring:
+  data:
+    mongodb:
+      host: 192.168.1.127
+      port: 2717
+      database: mydatabase
+      username: root
+      password: rootpassword
+  application:
+    name: spring-roulette-backend		
+
+logging:
+  level:
+    org.springframework.web: INFO
+server:
+  port: 9090
+  servlet:
+    context-path: /
+  tomcat:
+    connection-timeout: 60000

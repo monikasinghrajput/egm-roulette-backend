@@ -1,0 +1,234 @@
+{
+  "Group": {
+    "GroupFirstLine": 32,
+    "GroupSecondLine": 30,
+    "GroupThirdLine": 32,
+    "Group1to12": 25,
+    "Group13to24": 37,
+    "Group25to36": 32,
+    "GroupBlack": 40,
+    "GroupRed": 55,
+    "GroupOdd": 46,
+    "GroupEven": 49,
+    "Group1to18": 47,
+    "Group19to36": 48
+  },
+  "ColdNumbers": [
+    28,
+    29,
+    11,
+    7,
+    2
+  ],
+  "HotNumbers": [
+    25,
+    16,
+    36,
+    23,
+    26
+  ],
+  "Statistics": [
+    {
+      "Number": 0,
+      "Percent": 4
+    },
+    {
+      "Number": 1,
+      "Percent": 3
+    },
+    {
+      "Number": 2,
+      "Percent": 1
+    },
+    {
+      "Number": 3,
+      "Percent": 1
+    },
+    {
+      "Number": 4,
+      "Percent": 3
+    },
+    {
+      "Number": 5,
+      "Percent": 2
+    },
+    {
+      "Number": 6,
+      "Percent": 2
+    },
+    {
+      "Number": 7,
+      "Percent": 1
+    },
+    {
+      "Number": 8,
+      "Percent": 2
+    },
+    {
+      "Number": 9,
+      "Percent": 2
+    },
+    {
+      "Number": 10,
+      "Percent": 3
+    },
+    {
+      "Number": 11,
+      "Percent": 1
+    },
+    {
+      "Number": 12,
+      "Percent": 3
+    },
+    {
+      "Number": 13,
+      "Percent": 2
+    },
+    {
+      "Number": 14,
+      "Percent": 3
+    },
+    {
+      "Number": 15,
+      "Percent": 4
+    },
+    {
+      "Number": 16,
+      "Percent": 5
+    },
+    {
+      "Number": 17,
+      "Percent": 4
+    },
+    {
+      "Number": 18,
+      "Percent": 3
+    },
+    {
+      "Number": 19,
+      "Percent": 2
+    },
+    {
+      "Number": 20,
+      "Percent": 2
+    },
+    {
+      "Number": 21,
+      "Percent": 4
+    },
+    {
+      "Number": 22,
+      "Percent": 1
+    },
+    {
+      "Number": 23,
+      "Percent": 4
+    },
+    {
+      "Number": 24,
+      "Percent": 2
+    },
+    {
+      "Number": 25,
+      "Percent": 6
+    },
+    {
+      "Number": 26,
+      "Percent": 4
+    },
+    {
+      "Number": 27,
+      "Percent": 2
+    },
+    {
+      "Number": 28,
+      "Percent": 1
+    },
+    {
+      "Number": 29,
+      "Percent": 1
+    },
+    {
+      "Number": 30,
+      "Percent": 3
+    },
+    {
+      "Number": 31,
+      "Percent": 2
+    },
+    {
+      "Number": 32,
+      "Percent": 3
+    },
+    {
+      "Number": 33,
+      "Percent": 1
+    },
+    {
+      "Number": 34,
+      "Percent": 2
+    },
+    {
+      "Number": 35,
+      "Percent": 2
+    },
+    {
+      "Number": 36,
+      "Percent": 4
+    }
+  ],
+  "GameResults": [
+    {
+      "WinningNumber": 0,
+      "roundId": 1731817231
+    },
+    {
+      "WinningNumber": 1,
+      "roundId": 1731817232
+    },
+    {
+      "WinningNumber": 2,
+      "roundId": 1731817232
+    },
+    {
+      "WinningNumber": 3,
+      "roundId": 1731817233
+    },
+    {
+      "WinningNumber": 4,
+      "roundId": 1731817235
+    },
+    {
+      "WinningNumber": 5,
+      "roundId": 1731817241
+    },
+    {
+      "WinningNumber": 6,
+      "roundId": 1731817244
+    },
+    {
+      "WinningNumber": 7,
+      "roundId": 1731817245
+    },
+    {
+      "WinningNumber": 8,
+      "roundId": 1731817250
+    },
+    {
+      "WinningNumber": 9,
+      "roundId": 1731817251
+    },
+    {
+      "WinningNumber": 10,
+      "roundId": 1731817252
+    },
+    {
+      "WinningNumber": 11,
+      "roundId": 1731821433
+    },
+    {
+      "WinningNumber": 12,
+      "roundId": 1731821434
+    }
+  ]
+}
