@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  egm-roulette:
+    image: wildace/egm-roulette-game-service:latest
+    container_name: egm-roulette-game-service
+    ports:
+      - "9090:9090"
+    restart: unless-stopped
